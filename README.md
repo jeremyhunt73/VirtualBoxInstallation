@@ -16,8 +16,8 @@ This project consists of the installation of VirtualBox VM with a Windows Server
 <h2>Walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download VirtualBox for Windows host. <br/>
+<img src="https://i.imgur.com/9nRXVV8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
