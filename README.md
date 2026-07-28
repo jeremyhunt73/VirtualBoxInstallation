@@ -7,7 +7,7 @@ This project consists of the installation of VirtualBox VM with a Windows Server
 
 <h2>Software Used</h2>
 
-- <b>Latest version VirtualBox</b> 
+- <b>Latest version of VirtualBox</b> 
 
 <h2>Environments Used </h2>
 
